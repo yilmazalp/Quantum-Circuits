@@ -8,6 +8,7 @@ This Jupyter notebook provides a visual and conceptual introduction to quantum c
 The notebook explores:
 
 - Visualizing Quantum Algorithms
+  
   The role of circuits in representing quantum computations.
 
 - Fundamental units
