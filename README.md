@@ -12,15 +12,19 @@ The notebook explores:
   The role of circuits in representing quantum computations.
 
 - Fundamental units
+  
   Introducing some essential concepts such as wires, quantum register, and circuit depths
 
 - Circuit diagram
+  
   A look at how qubits are organized and depicted in circuits.
 
 - Quantum Gates
+  
   Exploring how gates acting on qubits can be executed simultaneously.
 
 - QNodes and Devices
+  
   Explaining how to bind the circuit to a device, and how to run and execute the circuit
 
 ## Prerequisites
@@ -32,7 +36,9 @@ The notebook explores:
 1. Clone the repository or download the notebook file.
 2. Make sure you have Python 3.0+ and Jupyter installed.
 3. Install required packages:
+   
    `pip install numpy matplotlib`
+   
    `pip install pennylane upgrade--`
                               
 5. Open the notebook: Jupyter notebook "Quantum Circuits.ipynb"
